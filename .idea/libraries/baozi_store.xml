@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="baozi-store">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/baozi-store.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
